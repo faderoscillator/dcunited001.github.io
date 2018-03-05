@@ -12,95 +12,6 @@ excerpt: ""
 
 
 - [Ground state search, hysteretic behaviour, and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures](https://arxiv.org/abs/1312.7665)
-  - 
-
-### Thesaurus Check:
-
-specific:
-- communication
-- physical: material
-
-top:
-
-- yield
-- become
-- interaction
-- might
-- network
-- ourselves
-- change
-- cultur-
-- phenomen-
-- potential
-- dynamics
-- knowledge
-- system-
-- mechanics
-- people
-- social
-
-medium:
-
-- significan-
-- different
-- distribution
-- see !!
-- media
-- speed: velocity
-- understand-
-- lead- !!
-- another !
-- quantif-
-- pronounced: apparent
-- often !!
-- other !
-- effects !
-- find !!
-- growth
-- movement
-- instability: turbulence
-- place !
-- results
-- same
-- used
-- ways !!
-- awareness
-- converg-
-- high !!
-
-adverbs:
-
-- essentially
-- effectively
-- increasingly !!!
-- suddenly
-
-#### alternative phrases
-
-- communication networks:
-- information networks:
-- convergence:
-  - consensus
-  - RAFT algorithm and/or PAXOS, but sometimes byzantines generals
-    because why not constantinople
-
-#### concepts that are difficult to succinctly reference:
-
-  - social physics:
-    - using analogies from physics and math to model social
-      interactions
-  - agents: people and bots
-    - agents as in the concept of agency and ability to impact
-      information and communication
-    - how to simplify this? just refer to as agents? or
-      information-processing entities?
-  - instances of information:
-    - generally just any representation of information ... quick short
-      name for this?
-  - players in social games:
-    - should i just refer to these as agents?
-    - is a distinct term appropriate? they are idealized as particles
-      that exert influence on information systems
 
 
 ### application of art to these philosophical ideas:
@@ -219,6 +130,8 @@ finite set
 - references to a grimoire for an analogy to old ideas becoming more
   visible
 
+####
+
 #### Part Two: Social Physics
 
 1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
@@ -320,6 +233,20 @@ mentioned my articles relevant to info warfare:
 
 ...
 
+
+part one:
+===============
+
+- add photos of new gender/sexuality spectrums to first part
+  - this is an example of spectral decoherence and hurts the LGBTQ
+    communities because it impairs the brandability of all sexual
+    identities
+    - in order for their movement to be strong and create long-lasting
+      changes, they need for almost everyone in their movement to
+      relate to a handful of sexual identities: LGBTQ
+    - if instead there are 100+ identities, it becomes harder to
+      consistently and strongly brand the identies. each one has less
+      following. it causes the movement's energy to be diffused.
 
 part four:
 ===============

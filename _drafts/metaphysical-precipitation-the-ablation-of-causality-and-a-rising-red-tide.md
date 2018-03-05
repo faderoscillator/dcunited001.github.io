@@ -8,7 +8,141 @@ author:
 excerpt: ""
 ---
 
+- TODO: remove some of the imagery in this article?
+- TODO: add section on alchemy as sociophysical chemistry and where
+  this has the propensity to go horribly wrong
+- TODO: cite the 2014 curcumin nanotechnology paper
+- bruce lee one inch punch
 
+
+
+#EnterTheDragon => Defeating #HallOfMirrors https://www.youtube.com/watch?v=WoMVfvS8rSo …
+
+- your enemy will be ruthless & destroy you immediately
+- they have a weapon they will never let go of
+- make them grab the weapon they didn't intend to use
+- bait them into breaking their precious things
+- grab their eyes with your fearless gaze & never let go
+- when they are certain you'll strike, feint instead
+- be ready to fight with shadows
+- when they pull you into the hall of mirrors, you're fighting shadows of yourself that do not exist
+- destroy their images. ALL of them. only then can you be sure to see
+  clearly.
+- when you cannot lose, slay them by pushing them into their own
+  weapon: THE ONE THEY NEVER INTENDED TO EXIST
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+========
+
+#Curcumin can help disrupt the theoretical SPION nanoparticle
+distribution in your brain.
+
+so if they are using "directed energy" pulses with people who have
+been dosed with SPION's or "saline" solution, then it requires sensors
+with hyperspectral imaging, which almost certainly must be calibrated.
+
+so, that would mean the particles would need to be dispersed in the
+skull/brain in some known pattern to match the resulting energy
+signatures ... and if so, then chemicals like curcumin may completely
+disrupt the calibrated distribution of nanoparticles. (this actually
+isn't in the article i wrote, yet. i need to add it)
+
+=========
+
+#MeltdownSpectre: the actual problem => THE FIX IS A
+SECOND-ORDER #WeaponizableExploit that can B triggered with #Any
+#Javascript to destroy hardware
+
+https://twitter.com/dcunit3d/status/954763462353346560
+
+
+- see the screenshots for more information
+  - they are trying to burn down the library of alexandria
+  - during the government shutdown
+  - look up at the screenshots
+
+What happens when the hardware accelerations now voided by Meltdown
+Spectre are no longer available? you invalidate some important
+assumptions about intel/AMD's hardware design, which means higher
+thermal radiation in the CPU.
+
+Therefore the fixes to Meltdown and Spectre may cause recent CPU
+hardware to literally meltdown. The problem is not realllly Meltdown
+or Spectre, but in the solution. imagine a world where only ARM
+hardware remains!
+
+Ask someone with a PhD in Computer Engineering or a PhD in Computer
+Science with compiler design and/or Javascript VM design & AST
+experience. Ask them about the effects the fixes to MeltdownSpectre
+will have on thermal radiation and heat clearance in the hardware.
+
+> Is there a fucking ethical holocaust server? @Kobe ??
+
+in other words if you design hardware assuming that the optimizations
+of MeltdownSpectre are always avialable, then you can make assumptions
+about how much thermal radiation new CPU's can tolerate without
+burning out. take those optimizations away and your thermal
+assumptions are no longer valid! this enables targeted destruction of
+hardware around the world by specific software exploits run
+amok. these exploits will look fairly harmless, but they will be
+tailored to exacerbate the now invalid optimization pathways that were
+formerly availabe via the MeltdownSpectre
+
+==============
+
+> original question: How is it possible to not contribute anything
+> meaningful if we still have virtue and relationships with others?
+
+human interactions, on average, have qualities that emerge from the
+larger-scale power structures in society. these large scale power
+structures become convergent and singular in something I call the
+#RedTide effect. it happens within the span of 10 or 20 years and, if
+we're not extremely careful, we end up living in a world very similar
+to the early dark ages or in a Serfdom. a very dark serfdom.
+
+> That doesn't really answer how we go from being a social species to
+> not continuing with, desiring, and finding our purpose and meaning
+> in relationships with others.
+
+i'm saying that people become very unlike anything humans or humanity
+ever has been. not necessarily because of technology, which simply
+accelerates this. it's because of teleological shifts underpinning the
+phenomenology of human psychological and sociological experience. it
+is very much an anti-stoic world and it's driven by overpopulation and
+technonihilism.
+
+it's horrible because it undermines that amazing sense of happiness
+you get from being detached from absolute social circumstance/state --
+instead choosing to redefine your worldview by becoming
+attached/focused on local & relative social circumstances/state for
+the derivation of happiness & meaning in life.
+
+==============
+
+- japanese punns (boudou and boudou)
+
+
+- the point is that technonihilism completely undermines the viability
+  of philosophical systems like stoicism. forces us to question the
+  rationality of someone who would even choose stoic principles in the
+  mid 21st century.
+  - so, in 2020, even if you built a time machine in secret and
+    literally brought Leonardo DaVinci into the future (assuming that
+    language and cultural issues are no problem), it would not
+    matter. No person can offer anything to humanity in this era that
+    outweighs his or her fiscal cost to society. there is no point to
+    anything without a strong belief system that artificially
+    reinforces the need for adherence to virtues.
+
+
+#### Black Veil Brides - Wake Up
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/HBB37gsHJmQ" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - (Our shared fabric for (communication) is shedding its
   physicality, (its discrete quality), and finally its temporality,
@@ -25,13 +159,22 @@ dynamics) until it approaches aphysical ...
 - (each instantiation of a specific piece of information (connections)
   to physical instantiations gradually lose relevance.)
 
+
+
+
+- How do hierarchy/stratification and spectral decoherence affect the
+  capacity for power (economic/informationa/political) and its
+  exercise
+  - {from notes on phone, need to extrapolate this...}
+
+
+
+
 # [Metaphysical Precipitation](#fdsa)
 
 # [The Ablation of Causality](#fdsa)
 
 # [The Interminable Red Tide](#fdas)
-
-
 
 # Metaphysical Precipitation
 
@@ -163,6 +306,23 @@ entities.
     psychological, and sociocultural changes are fundamentally
     different in a way that is very difficult to understand
 
+
+- again mention Kantian [conditions of possibilities]()
+  - for sentient entities operating in this new epoch of shared
+    reality, this dramatically expands the [Kantian categories]()
+    representing the potential short-term subjective expectations of
+    difficult-to-understand phenomena.
+  - this happens at the same time as the other factors driving the
+    ablation of causality and both factors drive each other.
+    - disinformation, superconnectedness and information
+      overstimulation implies that it becomes prohibitively difficult
+      to reason about what happened in the past AND to reason about
+      the phenomenological range of possibilities in the near future,
+      as well as dynamical inferences related to them.
+
+- especially as it relates to [Kantian categories]() of entities'
+  awarenesses of reality
+
 - the most important: in a post-convergence world, causality itself
   operates in a fundamentally different way, which can be
   anticipated by observing the evolution of various graphs
@@ -253,8 +413,12 @@ entities.
           networks where causality (becomes unknowable and
           unpredictable)
 
+
+
+
 # The Interminable Red Tide
 
+- A STRONG, STRONG WARNING
 
 - the concept of sociohierarchical territory (define)
   - it is disappearing!!

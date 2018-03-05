@@ -1,17 +1,39 @@
 ---
 title: "Social Physics: Misc Ideas"
 categories: "blog"
-tags: "oneirontology religion semiotics linguistics"
+tags: ""
 headline: ""
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-
+- TODO: some of these ideas i've already incorporated into blogs
 
 
 # Blog Ideas:
+
+
+## IRL applications of social physics
+
+- civic planning
+- sociophysical minimization of traffic congestion for urban centers
+  - for example, via suggested variation in working hours. tax
+    deductions for the businesses that comply with slightly variated
+    business hours
+    - this specific idea for traffic minimization is perfect for major
+      urban centers with huge problems w/ traffic
+  - other ideas include traffic routing patterns, so that traffic is
+    coaxed into into "perferated" bundles of cars that are like
+    traffic packets, that can be routed more efficiently.
+    - i originally had this idea in 2008. by modulating traffic light
+      green/red time length, you coax certain quanta/waves of traffic
+      to become clumped together, ideally minimizing the travel time
+      and feul consumption time of everyone on the road.
+      - very difficult to prove the application of this technique
+        would be effective though. and, since it's augmented by
+        hooking into Google/Waze/Uber/etc navigation and destinations,
+        there might be some privacy concerns
 
 ## The Basics & Why It's Personally Relevant
 
@@ -20,39 +42,12 @@ excerpt: ""
     less-complex physical state
 - social physics is like a (macrocosm) of biophysics
 
-## A Typology of Occupations
+## ##
 
-#### A typology of jobs from a social physics perspective
 
-- how to choose an occupation based on maximizing social physical
-  preferences:
-  - targeted demographic,
-  - varied demographics,
-  - more control over dynamically targetable demographic,
-  - high flux of particles/people
-  - highly varied flux of particles/people
 
-#### Objectives Someone Might Want to Achieve Via Their Occupation
 
-- limit total social exposure over time
-- develop their own social graph
-- encounter local graph flux
 
-#### Example Jobs to Delineate
-
-- MC/DJ
-- Event Coordinator
-- Wedding Planner
-- Prison Guard
-- Barkeeper
-- Cop
-- Talk Show Host
-- Cook
-- Teacher
-- Pastor
-- Narc
-- Office (customer facing and not)
-- Production Engineer
 
 ## Discussion of Schematic Complexity
 
@@ -281,5 +276,3 @@ their own subjective demise is perhaps the greatest power.
       amoung the rForce & aForce, which will be important.
     - the basis has to be set up to scale properly to different screen
       resolutions, which is something that i messed up recently
-
-

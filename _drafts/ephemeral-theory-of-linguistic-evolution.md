@@ -108,8 +108,30 @@ utility in the collective consciousness of early humanity
 
 would even dictate the functional
 
+
+- [IPA mappings to linguistic spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(revised_to_2015).pdf)
+
+
 ### Misc Linguistic Ideas:
 
+
+- for some langauges and regions, names are often found in the space
+  of phoneme combinations without associated morphemes.
+  - the set of most frequent names over time should have several
+    factors influencing it's evolution, including:
+    - innate propensity for some change over time
+    - when names penetrate a new area/culture, they may be slightly
+      changed to match the set of phonemes used, an accent/dialect, or
+      in response to morphemes in that language/region
+  - not many areas have well-kept population records, especially
+    further back in history. however, there may be some inferences
+    that can be made based on the set/distribution of names and the
+    set/distribution of morphemes/phonemes in languages.
+    - the spread of different names through adjacent cultures may
+      signify the strengthening of a relationship.
+  - it's definitely an interesting idea. i don't know how to acquire
+    the data for the research in correlation b/w older languages and
+    names.
 - controlling/guiding linguistic evolution by observing the laplacian
   (or gradient) of morphemic change with respect to specific social
   groups or dialects
@@ -266,7 +288,75 @@ would even dictate the functional
 
 - [metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable))
 
-### Zipf's Distribution for English Words and Japanese Loan Words
+## Computational Linguistics for Songwriting
+
+#### morpheme similarity across languages for song lyrics
+
+  - identify non/sensical morphemes and grammars that are rhythmic and
+    aesthetically pleasing
+    - e.g. sentences like
+      [colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously)
+      can be automatically generated with varying degrees of semantic
+      coherence, but constrained to meet rhythmic, tone, prosody or
+      plosive aesthetics.
+  - or [parse trees](https://en.wikipedia.org/wiki/Parse_tree) can be
+    constructed for some linguistic graph traversal:
+    - this could be through a translingual semantic network, where
+      some branches of parse tree's is lifted via functor to another
+      language
+      - the parse tree branches representing these clauses/expressions
+        are then translated that language
+        - some rules must be set for interlingual encapsulations
+          (e.g. when english sentences are rendered with japanese
+          clauses encapsualted within them)
+    - or it could mix/match grammer structures & function words from
+      one language with mixtures other languages
+      - to use this artistically, focus on the rhythmic patterns &
+        patterns of prosody/emphasis created by a languages grammar
+        rules
+  - another artistic use would be to gradually swap out homophonic
+    synonyms (e.g. in a chorus, mutate some vocab/function words for
+    homophonic counterparts in another language sharing morphemic
+    roots)
+
+#### algorithm to anticipate the phonemic/morphemic content of lyrics lends itself to a singer's range of expression
+
+- for a given set of lyrics, anticipate the spectra for audio as it
+  would be produced by a specific singer
+  - more generally, this can also use data science & machine learning
+    to predict a singer's representation of specific morphemic n-grams
+    - (i.e. their typical vocal expressions for specific combinations
+      of phonemes)
+  - however, it's not just that the algorithm might produce one
+    representation that is typical for a particular artist and word
+    (morpheme), but the range of expression that artist inflect on
+    those words or lyrics
+  - this could help inform other algorithms that anticipate lyrics
+    which bring out the singer's style
+
+- this idea is basically an offshoot of voxxel's algorithm for
+  providing a metric of similarity
+  - voxxel, the worthless PoS "just-for-fun" app for which no one ever
+    cared to question the business model (it's intellectual property
+    and improvements on voice search)
+
+#### abstract usage of phonemic elements purely for their texture & rhythmic qualities
+
+- with computationally generated/transformed lyrics that preserve some
+  hidden meaning (or perhaps create some unconscious meaning in those
+  who are or are not familiar with that languages phonology)
+- process the spectrogram of some sample/instrumentals to identify
+  phonemes (& purely abstract phonological textures) which blend well
+  - the leftover spectral/temporal space remaing in a spectrogram can
+    provide the basis for input to an algorithm that generates lyrics
+    - or can simply provide guidelines/bounds
+  - the imposition of artificial constraints always leads to more
+    opportunities for creativity, but is this the case with automated
+    generation of content.
+    - i would think of these as advanced tools for lyrical style meant
+      to hone the aesthetics of audio
+
+### Zipf's Distribution for English Words and Japanese Loan Words & Variance over time
 
 - what does the difference b/w zipf's distribution for english words &
   japanese loan words from english tell us?
@@ -433,6 +523,21 @@ developments or the size/shape of the skull and parts of the brain,
 - todo: there's probably a name for this subfield of linguistics
   (anatomy, genetics & linguistics)
 
+- was the process and form of our neurological evolution constrained
+  by phenomenological ideals related to computational complexity?
+  - for a given computational architecture (wetware), there must be
+    some minima of size/density/etc required to give intelligent life
+    various cognitive abilities we have.
+  - however, in terms of energy and time, the most efficient form of
+    wetware computational hardware would likely be harder to attain
+    spontaneously (i.e. through evolution)
+    - therefore, we would only reach efficient form of computational
+      hardware later on.
+  - the important point here is that, for some specific biological
+    type of intelligent life, there may be size/energy constraints,
+    assuming the life could not network together dynamically to
+    leverage the collective wetware to expand its cognitive faculties.
+
 ### Concept of critical mass, as applied to anatomy/linguistics
 
 there should be some set of features and quantifyable attributes that,
@@ -483,6 +588,61 @@ mass of each:
   - if so, parrots seem like a counterpoint to this idea
 
 - rats of nimh...
+
+- counterexample: parrots and other birds that talk
+  - why can they imitate phonemes and even limited degrees of
+    emotional inflections, but not develop intelligence?
+    - do they only have some of the pieces required?
+
+#### Genetic Evolution of Anatomical Features and Body Language
+
+- this discussion of variation in anatomic features absolutely does
+  not pertain to humans.
+- certain algorithmic processes involving the discernment,
+  parameterization and (...) are greatly improved by the genetic
+  preservation and anatomic consistency of physical features
+  - examples include:
+    - the whiteness of eyes and high contrast of pupils (which is
+      apparently not so in Gorillas)
+      - this difference is critical in enabling people to see where
+        other people are looking. it's trivial for humans to do; it's
+        impossible for gorillas.
+      - it also extends the maximum range at which people can expect
+        to infer other people's immediate visual focus
+        - it is also critical in enabling people *to expect others
+          will see them looking somewhere*
+          - this visually indicates someone's immediate focus or
+            object of attention
+          - this leads to a harmonization of the mental state between
+            members of a social species, whose experiences become more
+            linked, since each member's experience becomes
+            parameterized by the experiences and mental states of
+            those members around them
+          - this contributes greatly to a phenomenon of
+            harmonization/consensus of abstraction
+    - hairlessness of humans & its effect on the
+      inference/visibility/consistency/(expectability)/reciprocality
+      of body language
+      - combinatorial/symbolic gestures is greatly expanded (...)
+      - to recognize the ......
+  - TODO: correlate these two examples to algorithmic: efficiency,
+    effectiveness, simplicity and well-definedness (the last two of
+    which are critical for neurogenetic definition/preservation of
+    advancement of genetically defined features of the brain)
+  - these "algorithms" are implemented stochastically and in neural
+    networks.
+    - _they are almost always less efficient than the most efficient
+      (deterministic/non-deterministic) solutions, if either exist_
+    - that is, the brain is always approximating some solution ...
+
+  - both the efficiency & effectiveness of algorithms that process
+    non-verbal communication are also critical in expanding the
+    utility of neural features () as well as the variety of symbols
+    and symbol-combinations matched/processed.
+    - more efficient algorithms, the greater the range of symbols that
+      can be defined
+    - more consistently preserved anatomic features, the more
+      efficient the neural nets are.
 
 # social aspects
 
@@ -978,9 +1138,4 @@ these specific aspects are desirable:
       necessity, they are not.
   - so, the paradox is that, to use norms to signal, you have to
     propagate the norm
-    - .... 
-
-
-
-
-
+    - ....

@@ -1,7 +1,26 @@
 
 ### startup ideas
 
-- Blockchain X Medium (see blockchain notes)
+#### ML (X) A/V Lighting for Music
+
+- tensor network for ML drumming styles applied to Ableton MIDI
+  - the network that learns/recognizes/generates drumming styles or
+    other instrument styles, what does it look like
+- automate coordination for A/V (Lights, LED's etc)
+  - but to inform/match the motions use the tensor network trained on
+    the recognition of a musician's play styles for specific songs
+  - needs to be able to analyze real-time audio to representations of
+    musician/song/style/etc
+  - the goal is to have a lighting show that runs itself, essentially
+    - it recognizes the song that's being played and how many bars a
+      solo/duet/etc is going on for.
+    - it matches certain song regions or elements of play style to
+      specific lighting transitions
+
+#### Blockchain X Medium (see blockchain notes)
+
+#### Backup/Analyze/Provide documentation for old electonics (& their components)
+
 - app to backup/facilitate access to documentation for old appliance's
   electrical components & circuit diagrams
   - i'm sure there's already an app for that
@@ -25,6 +44,8 @@
   - essentially rent your brains computation power on demand (ok
     that's dumb lmao)
 
+#### Logical Diffing of Federal USC Statutes to Produce Functionally Equivalent Documentation of Law
+
 - parse USC federal & state law sections as "trees" to rebase the
   language so that it's functionally equivalent, but more simply
   expressed
@@ -40,7 +61,42 @@
     writing bills
     - you could have continuous integration and "automated testing"
       for congressional assistants to aid in writing bills
+
+#### App: Train Stronger Rhyme Recognition/Generation via Neural Hack (semantic dissonance)
+
+- present users with streams of non-sensical sentences that maintain a
+  rhyme scheme. the statements don't make sense, but there is always a
+  simple meter and a rhyme scheme.
+  - the intention is that the semantic dissonance is jarring, which
+    subconsciously compels the mind to focus a bit more on the rhymes
+    it encounters
+    - that is, it notices and picks up the intentional rhymes, but
+      there is no valid semantic meaning of the sentence,
+    - so it should force the mind to focus on the content its
+      processing more, thus internalizing potential rhymes
+  - ideally app would process voice allow for mutliple meters, but the
+    content would be randomly generated
+
+#### Misc Tech Ideas
+
+- AR Meta Flashbards
 - UI idea: tilt-to-reveal interaction for GIF's shared online
+
+
+- Oscil8 simplification:
+  - a pastie dev site for configuring synth patches and sharing w/
+    short-url, text & data
+  - would include WebAudio MIDI interface
+    - potentially emulation hardware/VST
+  - simply a free tool for playing w/ Software/Web VST's and sharing
+    the sounds in JSON (probably already exists)
+
+- security idea: connect to un/secured video streams where the
+  location of cameras is known: only in public places. those small
+  cities and towns with primarily regional social flux will always
+  exhibit lower identity flux, esp. new identities
+
+===============
 
 
 - singularity & delta-singularity can allow a group of people in power
@@ -79,12 +135,154 @@ of resources in the future when it's not necessary.
   - (1) natural ability of someones brain to process information
   - (2) availability of information
 
+==============
+
+
+
+- to defeat ad hoc #hashtags from being marked as shadowbanned
+  content. you need to start countersignaling. prime the wrong
+  hashtag. then convince people to generally switch the hashtag after
+  these shadowbanning trolls try to SEO it into oblivion. it's not a
+  very good strategy, but it's an effective one. plus, you get the
+  data from who engages in the user-led shadowbanning SEO tactics, if
+  that is in fact the cause, since people have a choice to amplify or
+  phase out content on social media. if you do not see SEO tactics and
+  lots of bots (not "russian") it means it is literally Twitter or NSA
+  leading the shadowbanning
+
+
 ===============
+
+
+### Social Physics
+
+#### Lack of Social Signal produces dissociation similar to solitary confinement and isolation tanks
+
+- is similar to the effects that isolation tanks have on the senses,
+  but for social signals
+
+- what drowns out ambiguity? social input. it usually gives you
+  relevant signals to process. i've said this over and over again. i
+  am like literally in solitary confinement, even if the causes are
+  incidental. it's ruining my life & the complete lack of signal is
+  effectively amplified noise, when adjusted proportionately for the
+  lack of input.
+  - that is literally what happens in solitary confinement, but with
+    complete lack of sensory signals in addition to the lack of social
+    signals.
+    - basically, your mind tunes into whatever signal it can process,
+      regardless of whether its relevant.
+  - combined with the total lack of positive incentivization, it's
+    devastating in the long term. no one's listened to me yet...
+  - total lack of social signal, except for a few, makes those social
+    signals stronger via the complete void of alternatives.
+    - this makes gaslighting much more effective because that's the
+      only signal you get.
+      - it helps cults isolate you from your family/friends. you are
+        more susceptible when you're hearing only what they have to
+        say.
+      - it's it helps abusive people isolate/dominate their victims,
+        - so their signal/message/input dominates the thought
+          processes of their victims
+      - it can strengthen interrogation techniques, though it's hardly
+        the primary reason why you keep suspects in isolation (or at
+        least separated)
+      - effectively, it removes all alternative perspectives, when all
+        signal is presented with sufficiently similar perspective
+        (literally in the sense of multiple points of "vision")
+    - it's a fantastic way to induce a factitious disease, if that
+      person needed to look crazy, but a little heavy handed as you
+      literally have to dominate their life for years in order for it
+      to work,
+      - especially if they're naturally social people
+      - especially if you need to dominate their mental health
+        narrative
+      - you really have to work hard to destroy their life and whittle
+        away the few social connections they might have.
+      - if they have financial resources, it will not work because
+        they can always *move* around, physically and socially
+        - people with options will exercise those options to escape
+          pain.
+      - SEE THE DESCRIPTIONS FOR OT VII and OT VIII in SCIENTOLOGY
+        - "put someone in a corner and keep them there."
+        - hmmm... can't find this now, but it's really not worth
+          looking, unless you're interested in a handbook for
+          psychological torture by analogy, prolonged initiation and
+          lots of money.
+          - maybe another OT level? but basically, that's the idea:
+            fisher price my first "project rehabilitation force" camp.
+
 
 ### Philosophy
 
-philosophy & logic - additive/subtractive reasoning (probably most
-definitely another real concept for this)
+- the phobia paradox: an irrational fear of not having any phobias
+  - my problem is that i'm afraid i'm not afraid of that which i
+    should fear
+
+#### Utopia
+
+- without experience that ushers in a sense of urgency, a strong
+  opponent or ally becomes weak. this is why
+  socialism/communism/utopia is always transient
+- the idea of shambala was the precipice of 32 generations of
+  successive kings and progressive development. no matter how close to
+  perfect the utopia, its intrinsic nature leads to its demise. the
+  closer to "perfection" the faster it occurs. paradise or true utopia
+  is nature with a constant struggle for survival. every battle, won
+  or lost, makes you stronger until there is nothing that can stop you
+
+#### Majjhima Nikaya 26:34-42, Ariyapariyesana Sutta, "The Noble Search"
+
+> This monk is said to have
+> [blinded Mara](https://en.wikipedia.org/wiki/Samadhi#Description). Trackless,
+> he has destroyed Mara's vision and has become invisible to the Evil
+> One.
+
+- revisit/expand the section from "speed of thought: 20 postulates" in
+  the context of how technology changes informational dynamics and our
+  perception of causality
+  - if the best way to live in order to preserve fluidity and your
+    potential for change later is to do so without the accumulation of
+    informational baggage,
+    - then how is someone supposed to live/act in our new era in order
+      to attain this state of fluid being?
+    - there are manipulative people who want fodder for (blackmail) as
+      a general means of controlling anyone. with superconnected
+      networks exchanging a deluge of personal information, these
+      types of people now have more potential than ever to collect it
+      systematically
+
+  - "this monk" mentioned above isn't quite "tabula rasa" since a
+    modicum of knowledge/wisdom required to understand is needed to
+    live in this fluid/invisble way.
+    - if you don't attain these insights early on or have someone
+      there to guide you along so that you don't make certain
+      mistakes, theen it's all to easy for even the best of us to
+      accumulate information we carry with us for the rest of our
+      lives
+      - expand on the ways in which the early cultivation of this
+        knowledge can be efficiently/effectively transferred.
+        - multiple generations working together
+        - religious institutions
+
+      - i often wonder what can be done to wash off the sins of the
+        past or the information of the past.
+      - is it the information itself or the dispersion of iota
+        throughout society that binds us down and defines us?
+      - if it's the dispersion of iota -- physically distributed
+        datums of information -- then what can be done when that is
+        misinfo/disinfo?
+        - the effect is the same, whether it is true or false.
+        - the magnitude of effect, whether postive/negative, is
+          determined by the sociophysical distribution of information,
+          the variance in specific responses these iota provoke, the
+          frequency of datum expression
+        - the difficulty in replacing
+
+#### philosophy & logic - additive/subtractive reasoning
+
+- (probably most definitely another real concept for this)
+
 - the scientific method builds on an additive understanding of the
   world and doesn't claim anything is true unless it can be shown
   empirically or demonstrated to be true from arguments ultimately
@@ -101,6 +299,10 @@ definitely another real concept for this)
     actions, text, etc
     - so in this way, it's weaker
   - but then, some aspects of identity become stronger
+
+- locutionary camoflage
+  - instead of phrases identifiable to some ideology or group, masking
+    your images/ideas in the locutions of another group
 
 - Another argument against dialectical materialism: the existence and
   structure of forms of the collective unconsciousness challenge the
@@ -269,6 +471,11 @@ dream where this dog (a great dane) kept licking my face
 
 # Memory
 
+- Neurotemporal acceleration:
+  - scifi tech 2 slow down the trend of #SpectralDecoherence, but at
+    the ironic cost of experiential compression artifacts, some of
+    which might be non-sensory
+
 ### [Magnetite pollution nanoparticles in the human brain](http://www.pnas.org/content/early/2016/08/31/1605941113)
 
 - this is really sketchy.
@@ -390,6 +597,75 @@ the government will
   - voting machines can be rigged in seven minutes or less
 
 
+### Combat Poor Democratic Processes Via Well Coordinated Social Media Amplification
+
+- the idea -- completely circumvent the *process* of any national,
+  transnational, internation governmental organizations:
+  - with a universal "protocol" for "voting" over social media.
+    - it's universal and *it's simplicial*. it must be that it
+      provides an alternative mechanism for referendum -- effectively
+      and without question in it's reliability/etc
+  - it's a protocol that is so easy to teach, easy to discover, easy
+    to participate in that, assuming:
+    - (1) the telecom/internet infrastructure is in place
+    - (2) identity has already been verified and can be trusted
+    - then this protocol can be used to get worldwide feedback on a
+      small number issues every day.
+
+- basically, you propgate the idea that there is one multiple choice
+  national or global issue per day. if you care about it, you "vote"
+  with a social-media post that contains a hashtag (and perhaps an
+  identifier or something)
+  - the difference b/w this and any normal tweet storm is that there
+    is an agreed upon time for *everyone* to tweet their answer at the
+    same time
+  - in effect, this hacks newsfeed/socialmedia algorithms to
+    prioritize this issue and the response for it.
+    - the response structure also contains some information
+
+- it would mostly be used to get newsfeed algs to promote the people's
+  message, with the ultimate goal being to increase dialogue on
+  whatever topic the idea is about.
+
+- for authenticity and authority of this decision:
+  - *for authenticity:*
+    - because the time range to post is limited to 5 minutes
+      (nationally or globally), this sorta implicitly limits the
+      effect that bots can have
+    - it is assumed that the verification process for social media
+      provides some measure of authenticity, though that's not perfect
+      - over time, especially if 3D facial recognition is used to
+        guarantee current identity, then the notion of authenticity
+        becomes much stronger
+    - the protocol stresses unique responses. so the spectrum of
+      words/grammar/semantics in responses can be used to measure
+      authenticity
+      - along with possibly some short md5 hash
+  - *for authority:*
+    - it's assumed that any authority is conveyed by the effect of
+      millions of people posting at the same exact time
+      - there is no organization other than the people who get people to
+        care enough to schedule a tweet/post
+      - there is no official democratic process centered around this.
+        - you just either do tweet or you don't tweet
+            - no one blocks you out. no funding process to get the
+              referendum on the ballot.
+              - *NO MONEY REQUIRED*
+              - (... except to get the information out about it)
+    - so, the authority of this mechanism is balanced against any
+      shortcomings in authenticity (lack of validation), availibility,
+      etc
+
+
+
+- See these tweets:
+  - https://twitter.com/dcunit3d/status/913966236182155264
+  - https://twitter.com/dcunit3d/status/913966600407126016
+  - https://twitter.com/dcunit3d/status/913967322045526016
+
+
+
+
 #### how liberals are abusing mob tactics to stifle discussion online
 
 - put this in parapets?
@@ -424,6 +700,24 @@ happening to stop it.
 
 
 ===============
+
+
+### Intelligence is not Necessarily Born, it's Made
+
+
+also. IQ is a number. every person of "average" intelligence -- single
+sigma deviation -- is similar. every person of +3 or more sigma
+deviation is their own genius. there is no genius that is like
+another.  this actually breaks down when you get to higher sigmas of
+devlation. so, like +4 and +5 sigma IQ, they are effectively capable
+of emulating all lower intelligences. (or so my non-authoritative
+understanding goes) and thus, hyperintelligence is convergent so
+intelligence itself is paradoxically both divergent and convergent,
+when intelligence is considered qualitatively
+
+- [user on "advanced mafs" recommends looking up profoundly gifted
+  (PG)](http://www.hoagiesgifted.org/underserved.htm)
+  -
 
 ### Personal Learning Process
 
@@ -541,17 +835,17 @@ happening to stop it.
   - e.g. generally prefer to avoid conversations with david, if at all
     possible. (the flipside of this is that it limits my desire to
     engage in conversations)
-  - e.g. do not budge on anything. the stakes are high (apparently)
+- e.g. do not budge on anything. the stakes are high (apparently)
   - so, anytime i ask for something, there are about 6 tactics i find
-    employed against me, which strain the relationship and make me
-    feel like i should rather not ask for anything at all.
-    - this stands in contrast to the simplicity of many suggestions i
-      have described for:
-      - (1) improving my social life
-      - (2) improving the efficiency of processes related to a project
-      (app or startup)
-      - (3) helping me find other people who can help me on a project,
-        distract me from my pain, etc.
+  employed against me, which strain the relationship and make me
+  feel like i should rather not ask for anything at all.
+  - this stands in contrast to the simplicity of many suggestions i
+    have described for:
+    - (1) improving my social life
+    - (2) improving the efficiency of processes related to a project
+    (app or startup)
+    - (3) helping me find other people who can help me on a project,
+      distract me from my pain, etc.
 
 
 ===============
@@ -562,6 +856,19 @@ sufficiently intelligent being should evolve into one of several
 *types*, given the proper experiences
 - but a being that is more intelligent than that should evolve into
   one that can embody all of them.
+
+- there may be a parallel to a turing test for Hyperintelligent
+  Beings: can a being emulate all beings?
+  - particularly, can they emulate you at a high-level -- not just
+    superficially (patterns of voice/text and parity of locution)
+  - can they emulate anyone? everyone?
+- in this way, intelligence becomes convergent, yet it is first
+  divergent. that is, high-IQ individuals are each their own
+  high-intelligence and not necessarily comparable.
+  - yet, at sufficiently high intelligences (which may only appear in
+    artificial intelligence) they become sufficiently similar because
+    the definitive trait of hyperintelligence is the ability to
+    emulate all other beings..
 
 ===============
 
@@ -635,7 +942,6 @@ googling "a look into the mysterious and lethal illness"
   - {interpreting as: functional spaces mapped into the tissue
     networks of organs (e.g. the distance from nearest capillary,
     along with a means of "indexing" the capillary networks)}
-  - 
 
 ### Blog on the Myopia of Modern Medicene
 
@@ -795,14 +1101,12 @@ this is based on a math paper i read a few years back
 =============
 
 
+### That Time I Got Kicked Out Of Communist Club...
+
+- [By this kid](https://www.facebook.com/notes/lucas-sullivan/you-will-probably-not-be-happy-about-this/214856955209293/?hc_location=ufi)
+
+
 ### Archaeology
 
 - collect/analyze soil adjacent to items/bones collected from an
   archaeology site. {maybe this is already done}
-
-
-
-
-### That Time I Got Kicked Out Of Communist Club...
-
-- [By this kid](https://www.facebook.com/notes/lucas-sullivan/you-will-probably-not-be-happy-about-this/214856955209293/?hc_location=ufi)

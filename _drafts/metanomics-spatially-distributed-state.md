@@ -105,6 +105,30 @@ spatially distributed state in the nucleus
     - then a highly accurate model of the connectome for the brain and
       other organs can be constructed
 
+# Spatially Distributed State on the Micro Scale
+
+### Theranonostic Use of SPIONs with attached PNAs (peptide nucleic acids) to test for miRNA/piRNA/siRNA
+
+- see this paper: [Superparamagnetic iron oxide nanoparticles functionalized by peptide nucleic acids](https://doi.org/10.1039/c7ra00519a)
+  - how can these techniques be used for theranostics?
+    - or to quantify hard-to-reach datapoints in experiments?
+      - like the quantity of expression of miRNA/piRNA within cells
+        and the macroscopic distribution of those cells
+
+- but how can SPIONs w/ PNAs be designed to actually achieve this
+  goal? they need to:
+  - resist degradation
+  - etc..
+
+- functionally, there are many ways that SPION particles could react
+  to ncRNAs:
+  -  for example:
+    - by triggering behavior that causes them to aggregate or join
+    - by recruiting or attaching to a protein/complex
+    - ...?
+  - but how do the above translate into data that is accessible via
+    NMR & etc?
+
 # Spatially distributed state on the Macro Scale
 
 ### Methodology & Data Analysis for More Proficient MRI
@@ -118,7 +142,47 @@ spatially distributed state in the nucleus
   interpolate data, so that higher resolution can be acheived
   - {however, NMR/MRI data occurs in slices, but i'm almost certain
     I've seen this technique used somewhere since}
-- 
+
+
+#### Generalized DTI Atlas as Basis for Modular Addition of Data, w/ Composition/Reevaluation
+
+- a generalized model of the brain that enables any model to be meshed
+  together to eludicate more information & recompute data from other
+  models
+  - [A DTI tractography atlas for virtual in vivo dissections](http://www.sciencedirect.com/science/article/pii/S0010945208001238)
+    - something like the above, but deconstructed to allow the modular
+      composition of additional arbitrary data sets, without knowing
+      beforehand
+    - within reasonable constraints of course. but DTI Tractography
+      alread uses a somewhat recursive process
+    - problem: every brain is different, especially the kinds of
+      brains you want/need to analyze
+      - so each type of modular composition/reevaluation needs to be
+        vetted, unless there really is some generalized means of
+        chipping away at the "possibility space"
+
+#### Combination of Gadolinium and SPION methods for CTE diagnosis
+
+- see these studies and these
+  [tweets](https://twitter.com/dcunit3d/status/926340062878498816):
+  - [Assessment of blood–brain barrier disruption using dynamic contrast-enhanced MRI. A systematic review
+](https://doi.org/10.1016/j.nicl.2014.09.002)
+  - [A comprehensive literatures update of clinical researches of superparamagnetic resonance iron oxide nanoparticles for magnetic resonance imaging](http://dx.doi.org/10.21037/qims.2017.02.09)
+
+- combination of staining, imaging and analysis
+  - stain w/ both Gadolinium & Ferrous SPIONs to gauge differences in
+    leakage via the Blood Brain Barrier
+    - SPIONs absorb the magnetism from MRI where they are present
+      because they disrupt magnetic permeability.
+    - BBB disruption probably manifests differently with CTE. i don't
+      know much about it, but i thought the problem with CTE diagnosis
+      *was* the inability to identify regions of the brain with BBB
+      leakage. this is possible, but (in CTE) if the regions with
+      leakage are much smaller, then this will be more challenging
+  - in those studies, they identify regions of BBB leakage related to
+    tumors. *10.21037/qims.2017.02.09* compares imagery methods
+    related to SPIONs.
+
 
 overview of ideas/methods:
 

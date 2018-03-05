@@ -26,45 +26,45 @@ I hope to provide a good story and possibly spark your interest. If I
 do, follow up with some research yourself.
 
 
-# [Pre-Historic Written Language](#prehistoric-written-language)
+## [Pre-Historic Written Language](#prehistoric-written-language)
 
-### [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
+#### &#x03D5; [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
 
-### [Wherefore Sees Rising](#wherefore-sees-rising)
+#### &#x03D5; [Wherefore Sees Rising](#wherefore-sees-rising)
 
-# [Innovate or Die](#innovate-or-die)
+## [Innovate or Die](#innovate-or-die)
 
-### [The Origins of Conflict](#the-origins-of-conflict)
+#### &#x03D5; [The Origins of Conflict](#the-origins-of-conflict)
 
-### [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
+#### &#x03D5; [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
 
-### [Swords to Plowshares](#swords-to-plowshares)
+#### &#x03D5; [Swords to Plowshares](#swords-to-plowshares)
 
-### [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
+#### &#x03D5; [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
 
-### [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
+#### &#x03D5; [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
 
-### [Ancient Knowledge of Oil](#ancient-knowledge-of-oil)
+#### &#x03D5; [Ancient Knowledge of Oil](#ancient-knowledge-of-oil)
 
-### [Emergence of Copper Mining](#emergence-of-copper-mining)
+#### &#x03D5; [Emergence of Copper Mining](#emergence-of-copper-mining)
 
-# [The Origin of Religion](#the-origin-of-religion)
+## [The Origin of Religion](#the-origin-of-religion)
 
-### [What Is God, To You?](#what-is-god-to-you)
+#### &#x03D5; [What Is God, To You?](#what-is-god-to-you)
 
-### [Religion as Survival of the Most Empowering](#religion-as-survival-of-the-most-empowering)
+#### &#x03D5; [Religion as Survival of the Most Empowering](#religion-as-survival-of-the-most-empowering)
 
-### [What Is The Knowledge of Good and Evil?](#what-is-the-knowledge-of-good-and-evil)
+#### &#x03D5; [What Is The Knowledge of Good and Evil?](#what-is-the-knowledge-of-good-and-evil)
 
-# [The Deluge(s)](#the-deluges)
+## [The Deluge(s)](#the-deluges)
 
-### [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
+#### &#x03D5; [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
 
-### [Glacial Outburst Flooding](#glacial-outburst-flooding)
+#### &#x03D5; [Glacial Outburst Flooding](#glacial-outburst-flooding)
 
-### [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
+#### &#x03D5; [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
 
-### [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
+#### &#x03D5; [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
 
 <a name="prehistoric-written-language" />
 
@@ -1118,7 +1118,7 @@ of the 20th century.
     a characteristic smell of sulphur
 
 
-# Atlantis, Lemuria, Hyperborea
+# (Atlantis, Lemuria, Hyperborea)
 
 Countless myths concern lost cities, once great, but now sunken into
 the sea or otherwise forgotten.
@@ -1155,7 +1155,8 @@ include pics from Kurt Lambeck paper (1995)
 - "Shoreline reconstructions for the Persian Gulf since the last
   glacial maximum"
 
-- the response to flooding of the Persian gulf
+#### Diasporic response to gradual flooding of the Persian gulf
+
   - during this time, the Tigris & Euphrates would have flowed into
     Persian Gulf area
     - possibly merging before/around reaching the area now known as
@@ -1188,6 +1189,7 @@ include pics from Kurt Lambeck paper (1995)
       delta
   - a third group would begin occupying higher and higher ground
     - along the coastline from Kuwait to Oman to Yemen
+
 
 ### notes about seafare and trade
 
@@ -1245,7 +1247,6 @@ development of mythology
     - but if there were any major adaptation that dependably extended
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
--
 
 
 - some ancient species evolved until they reached the singularity,

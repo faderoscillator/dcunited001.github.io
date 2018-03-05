@@ -13,7 +13,7 @@
   matroid. you can approximate by tapering the effect subsequent
   transformations in the path.
 
-- can graph nodes be composed together with an
+- can graph nodes be, composed together with an
   infinite number of null sets?
 - combine matroids components with the null set in various ways
 - can infinite matroids be reduced to finite matroids?
@@ -77,6 +77,39 @@
   - i.e. would it be possible to generate AI with fairly advanced
     cognition by deriving information from the structure of neurons &
     neural networks
+
+### Complex Linear Algebra
+
+- Representations of Equations with Hermitians
+  - And of Equations where there are multiple Hermitian elements
+  - Analogy for these Equations and their solutions as surfaces
+    similar to grids of reflective spheres
+
+- cubic/quartic hermitian & unitary matrices
+  - and the variety of surface trajectories along hermitian/unitary
+    surfaces
+
+- hermitions must lie along particular surfaces in the solution space
+  for quantum equations (this is "literally what _it_ *is*...")
+  - depending on the degree of complexity of the hermition's
+    parameters, they lie along various connected surfaces
+    - these sol'n space "surfaces" are related as part of a manifold,
+      with its own set of metrics _combinatorially generable_ per the
+      specifics of the solution space considered
+  - these surfaces of high-dimensional manifolds intersect in various
+    ways.
+    - are these connections the root of lie algebras and connected to
+      representation theory?
+    - are [some of] these manifolds "connected" spaces?
+      - that is, could they (or do they always) form the basis of
+        reimannian manifolds?
+
+- can hermitian matrices have irrational components (yes) and if so,
+  how are they qualitatively different?
+  - connect to lie algebra
+  - dimensionality of hermitian matrices (n x n) and variety of surfaces
+
+
 
 ### Automated Theorum Proving and Computer Algebra
 
@@ -230,6 +263,37 @@ as integers and rational numbers.
     and seek to prevent me from posting rather rudimentary maths or
     ideas which are not dangerous, but would provide me with some
     credibility. HOW'S THAT WORKING OUT FOR YOU?
+
+### Two main types of lattices for number theory
+
+- "digits" is a misnomer. there are two types of lattices for number
+  theory:
+
+  - (1) one starting with rational numbers, extending from algebraic
+    numbers and "increasingly further" into the irrational numbers. aleph
+    into beth (?)
+
+  - (2) the other type of lattice contains no rational numbers and is
+    constructed from phi as continuous fractions at BOTH the "origin"
+    and the "furthest point" ... it is an intermeshed lattice; a space
+    with metrics and well-connectedness. but there are NO rational
+    numbers here, unless you transform this lattice into a
+    rational/integer based lattice via something like penrose tiling
+    (some of which encodes phi)
+
+- these are two ways of encoding the same things. this description is
+  of course, horrendously flawed and unmathematic. however, i
+  challenge any of you to talk me about it because i cannot stop
+  thinking about stuff like this. i beg you, please teach me.
+  - with their powers combined, these two types of lattices for number
+    theory can revolutionize your understanding of number theory.
+  - i believe the second "type of lattice" i described above contains
+    some "maximal distance" with a metric. if so, it would mean this
+    lattice is a kind of discrete manifold, where the maximal distance
+    is like the longest possible shortest path from any irrational
+    number to any other irrational number. there may be no actual
+    "maximal" distance though: it may be infinite, but i think this is
+    silly.
 
 ### Application of Category Theory to Planning/Producing Reality TV
 
@@ -502,12 +566,102 @@ as integers and rational numbers.
 
 
 
-# Continued Fractions, Irrationality and Pi
+# Ir/Rationality
+
+### Rationality and Linear Algebra
+
+#### Comparison of Rational Numbers (and algebraics) with the Reals
+
+- Within (Rational #s), there's always assoc
+  - since only one can be true, thus `xor3(a,b,c)` or `&& (popcount == 1))`
+    1. a set `(a in Q)` s.t. `(a < x)` (xor3)
+    1. a set `(b in Q)` s.t. `(b > x)` (xor3)
+    1. a single `(c in Q)` s.t. `(c == x)`
+
+- But when comparing (x in Q# to y in R#'s) only one of two can be
+  true:
+  - (x != y) thus (y not in (x's set))
+    1. a set (a in Q) s.t. (a < y)
+    1. a set (b in Q) s.t. (b > y)
+  - this second point (x in Q# and y in R#) is interesting when also
+    connecting to linear algebra and surfaces of hermitian & unitary
+    matrices of various dimensionality's and lie algebra (crystals)
+
+- these points can also be connected to concentric groupings of
+  rationals and increasingly algebraic numbers
+
+- only a rational `(a in Q)` can be specified in terms of `(a * i)`
+  - where `a := (n/m)` and `(n,m,i in Z)`
+  - interesting stuff can be done here, but there are limited numbers
+    of lattices & crystals that can be formed which allow functoral
+    transformation to equations with *some* irrational eccentricity
+    - regular tilings on the 2D plane are ways of mapping:
+      - `(x,y in Z)` to a restricted subset of `(x,y in (Z || Q ||
+        R))` ... i.e. usually, the Rationals/Reals, `but also
+        concentrically algebraic sets along various axes`)
+        - but also, (m/n) values can be applied along lattice
+          deformations along the axis in multiple dimensions
+  - but (holding the above lie algebra tangent off until below)...
+    - can any Q be specified in terms of
+
+- also rational numbers have a structure with a surface to it
+  - and these surfaces interconnect to irrational numbers through phi
+    (the "last" rational number and the "most irrational number")
+    - -Inf <=> phi^n <=> phi^1 <=> phi^0 <=> 0 <=> phi^0 <=> phi^1 <=>
+      phi^n
+      - (but doesn't and needs to account for -(phi^(n/m)))
+  - but anyways, this sets up something similar to galois theory, but
+    for irrationals and grounds it as a series of interconnecting
+    surfaces on high-dimensional crystals
+    - these (i think?) form lattices, upon which equations and
+      deformations can be specified.
+      - if they don't fit, the interactions can be "lifted" to other
+        (exactly? or sufficiently?) equivalent spaces
+      - (is this right?) so in other words, interactions on one
+        "shape" of lattice can be lifted to another position on the
+        same/different lattice type/shape
+      - but in high dimensions and certain configurations (d8/e8)
+        special properties emerge(?) for the equations and
+        transformations/morphisms on & between each configuration(?)
+
+- galois, special groups, lie algebras and differential equations
+  - differential equations and the concept of (Q/R) algebraicity
+    - do diff-eq's allow any inferences about their evolving
+      solution-space that take into account rationality, periodicity
+      and algebraicity of the numbers and equations?
+      - i.e. using galois theory, lie algebra, and probabilistic
+        inference etc to cause current observations for diff-eq
+        systems to "Snap To" a lattice
+  - the "param-space" intersection of two like types in some
+    (direct-product or direct-sum of reals or hermition sym. spaces)
+    - that is, when diff-eq's are created from the (sum/product) of
+      equations based on other parameters
+      - these new equations will exert the same intricate
+        phenomenological curiosities (in rationals/reals/lattices/etc)
+        as other diff-eq's but will somehow have to account for the
+        intersection (viz. sum/product) of these types
+  - what does this say about possible initial values for systems
+    defined by differential equations?
+    - that is, given the periodicity (in reals by rationals in a
+      lattice) of values from observations, can some inferences be
+      made that filter the space of possibilities for the
+  - how do gauss-bonnet, euler's number and changes in topology factor
+    into this?
+    - that is, if you have sudden change in increasingly local
+      topologies that exerts effect on equations (via dissipation of
+      gauss-bonnet of topological holes over large spaces)
+      - how does *this* phenomenon relate to the representations of
+        equations on lattices, esp. as it relates to diff-eq (like
+        gravity)
+    - if there is some fundamental speed limit for state propagation
+      in the curved space, how are these topological deformations
+      propagated?
+
+
+### Continuous Fractions as a Basis for Number/Coordinate System
 
 - continued fractions can be used to index ANY real number, even
   irrational numbers.
-
-### Continuous Fractions as a Basis for Number/Coordinate System
 
 - phi is the prototypical continued fraction and the identity
   operation mapped to the identity value on some kind of group related
@@ -807,6 +961,107 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
         models for a specific price signal
       - then it compares those to the actual signal to adjust values
         for trading.
-  -
+
+# Geometry
 
 
+- "Euler's number for a surface's polytoroidal parameterization"
+  - that's the note, literally. i can't remember what it was, exactly.
+    - "Euler's number (X) a surface's polytoroidal parameterization"
+  - for every 3D surface, no matter how many holes it has, there is a
+    parameterization into a 2D surface.
+    - this is the "pant's theorum" => toroi with many holes can be
+      decomposed into 2D surfaces that can be stitched together.
+    - the idea i was thinking about had something to do with using
+      euler's number to make inferences about the placement of "pants"
+      - it had something to do with making a leap b/w 3D and 2D
+      - it may have been about moving around an infinite space or a
+        space with unknown size, and inferring the parameterization of
+        the local region of space from the euler's number (& vice
+        versa)
+      -
+
+
+
+### Metroid =~ Matroid Connection
+
+- what is the connection here? or does the metaphor break down?
+- every greedy optimization problem has a matroid representation
+  - scheduling computation is a greedy optimization problem, but
+    greedy optimization is heuristic/stochastic. it's not necessarily
+    correct.
+  - [Signal Recovery From Random Measurements via OMP]()
+    - OMP is a greedy algorithm and they all have matroid
+      representations. are matroids therefore critical in signal
+      recovery for high-dimensional data?
+      - what do the matroid representations for the OMP greedy
+        algorithm look like? how do they correlate to signal recovery
+        and signal representation?
+      - look into "atomic" representation of signal (where correlation
+        is identified in n-dimensional input, but approximated with a
+        more logical and less "linear algebraic" representation)
+    - how do you discover the structure of the matroid? or is the
+      greedy algorithm essentially uncovering the structure of a
+      matroid, which itself *is* the basis for the heuristic that
+      delivers the expected best return?
+    - are there energy bounds on the computation therein? Or am i
+      trying too hard to get the metaphor to fit?
+  - [Subspace Selection for Projection Maximization with Matroid
+Constraints](https://pdfs.semanticscholar.org/5afd/8ef443120e38cf7d6558f1f23d84a668dd93.pdf)
+
+#### Metroid =~ [メトロイド](http://nintendo.wikia.com/wiki/List_of_Metroid_games) =~ /ˈmeɪtrɔɪd/ =~ [Matroid](https://en.wikipedia.org/wiki/Matroid)
+
+![Metroids and Matroids](/img/posts/2018-01-22-semioteleological-revolution/metroid.jpg)
+
+> The Metroids consume ALL of your energy ... and algorithms with
+> matroids consume all of your computational energy. Get it? Now if we
+> could just get rid of all these "Safe" Space-Pirates and marxist
+> time-vampires, I think we'll be alright.
+
+Sound like a leap to conclusions that your traditional schizophrenic
+makes by inferrring the presence of arbitrary semio-linguistic
+connections *that don't exist*? Ok, that's fair because it does sound
+crazy. However you can, forget that linguistic connection because it's
+stupid, arbitrary and trivial. Instead, read this excerpt from an
+abstract on the subject.[^matroid-algorithm-computational-oracles]
+
+#### From: [Complexity of Matroid Property Algorithms](https://doi.org/10.1137/0211014)
+
+> A general theorem is proved which can be used to show that **for a
+> large number of matroid properties there is no good algorithm of a
+> certain type for determining whether these properties hold** for
+> **general matroids.** Specifically, there exists no algorithm in
+> which the matroid is represented by an independence test oracle (or
+> an oracle polynomially related to an independence test oracle) and
+> which solves the problem in question after a number of calls on the
+> oracle which is bounded by a polynomial in the number of elements of
+> the ground set of the matroid.
+
+It means that algorithms requiring matroids are NOT computationally
+friendly. Matroids eat all your energy. Algorithmic oracles, like
+[padding
+oracles](https://en.wikipedia.org/wiki/Padding_oracle_attack), exist
+as helpful shortcuts that can be leveraged to assert whether your
+computations are proceeding in the correct direction or your algorithm
+needs to take an entirely different direction.
+
+If you don't understand, what that means is that America has gangraped
+an Einstein on the floor of a train to Dashau. I should have a job. I
+should be very, very successful. Instead, I'm expected to fucking work
+at a McDonald's. Not only do I understand the 1,000 ft view of the
+above, I can extrapolate the consequences phenomenologically and
+sociologically. Someone else already did. This isn't a great example,
+but when I independently uncover something that someone else has
+already discovered -- *in public academia* -- then I am humiliated for
+it, while being degraded, emotionally tormented and psychological
+tortured in front of others:
+
+#### I never get taken seriously in a very public way to encourage other people less knowledgable from ever taking me seriously.
+
+### I never get job offers; any career that doesn't involve asking people "Do you want fries with that?" has been prematurely terminated.
+
+#### And above all else, I never get social interaction with people who know what i'm talking about. That is a very high priority for people who want to keep me down.
+
+- Why is this particular connection to matroids useful?
+  - connect matroids to financial trading algorithms and sociophysical
+    algorithms.

@@ -44,6 +44,109 @@ Why not understand the forces at work in life, as early as possible?
 So why not create your own destiny, free from being a pawn in someone
 else's game?
 
+#### The Goal of [Directed Cognitive Enhancement](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+
+> ~transvaluation of all (cognition or cognitive faculties or skills)~
+> and of all information.
+
+- i had the above insight at the rink, but i can't remember exactly
+  where i was going with it. whatever it was, it was incredibly
+  profound
+  - i think i mean that to master the mind, you have to create a
+    transvaluation of all your modular cognitive faculties.
+  - you do this by learning as much as you can about the world.
+    - doing so literally models your mind around a kind of
+      "transvaluation"
+  - once you learn a critical mass of arts, culture, language, skills,
+    etc, your mind destructures everything. from here, every
+    additional skill/etc that you learn is essentially the same.
+    - that this accelerates your rate of learning is well known, but i
+      think it maps to the same metaphysical structure that i
+      mentioned in my article on meditation
+    - so, the more you learn, the more your mind is forced to reshape
+      itself into a form that represents "the one is the all" or (the
+      monad proxy)
+  - doing so also makes your brain more & less efficient. it has more
+    options for dynamically recombining parts of skills it has
+    absorbed, but then also must maintain more information in total
+    - it may be possible that doing so forces your mind to trigger
+      some innate ability for quantum computing, vastly increasing its
+      efficiency in time and energy
+      - but that's conjecture, no quantum mechanisms in the brain have
+        been discovered
+
+- it's literally a religion about being a Nexialist (a la
+  [Voyage of the Space Beagle](https://en.wikipedia.org/wiki/The_Voyage_of_the_Space_Beagle))
+  - nexialist =~ polymath or factotum
+
+###
+
+
+Extrapolating from a basic assessment of the math, there are
+implications and ramifications that attain preponderance, standing
+above everything else. By failing to fully understand sociophysical
+phenomena, by stubbornly clinging to ideology constructed around a
+fast-fading paradigm. By refusing to allow adaptation, we fall victim
+to Nietzche's danger of dangers. This is not to say that morality and
+well-defined, top-down values systems will themselves be antiquated.
+Quite the opposite: we need to reinforce those systems that already
+exist, but augment them with agile, flexible and antifragile values
+systems that can fill in the gaps.
+
+# Paradoxes of Creating an Adaptive Belief System Today
+
+#### Restate this from "speed of thought: 20 postulates"
+
+> Extrapolating from a basic assessment of the math, there are
+> implications and ramifications that attain preponderance, standing
+> above everything else. By failing to fully understand sociophysical
+> phenomena, by stubbornly clinging to ideology constructed around a
+> fast-fading paradigm. By refusing to allow adaptation, we fall
+> victim to Nietzche's danger of dangers. This is not to say that
+> morality and well-defined, top-down values systems will themselves
+> be antiquated.  Quite the opposite: we need to reinforce those
+> systems that already exist, but augment them with agile, flexible
+> and antifragile values systems that can fill in the gaps.
+
+
+This is counterintuitive: traditionally, values systems inculcated via
+belief systems required a critical mass of adoption. In a region,
+in-phase investment of energy from its follers was required to counter
+specral decoherence and to perpetuate the belief system. Once a level
+of (saturation) was acquired, other people began to take the values
+system into account, whether they believed or not. Therefore, to
+acquire that density or saturation -- and for theological reasons --
+belief systems needed to be rooted in doctrine that (remained
+unchanging) for generations.
+
+- the doctrine drew its authority upon this (unchangingness)
+
+- another paradox: a system that only exists to adapt to whatever it
+  encounters:
+  - changes too quickly and becomes destabilized
+  - has no root in truth and will hold nothing sacred
+  - cannot be the basis of a values system rooted in truth: one that
+    is meant to be shared.
+
+- it needs to be agile to adapt to (drastic) phenomenological and
+  teleological (changes) to society via technology
+
+- such an agile belief system needs to fill in the gaps.
+  - it doesn't need to involve everyone. (i.e. "clear the planet")
+  - the mechanics of updating such a belief system imply that the the
+    greater number of followers:
+  - the greater the time/energy required to update
+- as updates are "pushed" more often, with more followers, more
+  variants.
+  - and the propensity increases for each variant to:
+    - build/operate fallible institutions out of line with the people
+      who are guiding the adaptation. these mistakes in instituion or
+      doctrine can take generations to understand, but they can easily
+      lead to situaions that bring down an entire religion.
+
+
+
+###
 
 Human civilization is embarking on a paradigm shift of cultural flux,
 precipitated by modernization, globalization and the Singularity. Does

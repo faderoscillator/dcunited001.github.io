@@ -15,6 +15,114 @@ excerpt: ""
 
 - [Picture for Geometric Mechanics]
 
+
+
+#### Distance Metrics in Information Networks
+
+> The apple doesn't fall too far from the tree.
+
+- Inequalities (contained-within & within-is-contained) in type-space
+  - esp. as applied to game theory for real-time, stochastic &
+    inschematic games
+  - connections to nash equilibrium (when does the equilibrium exist
+    and for which games is it unreachable/incomputable?)
+
+
+- TODO: use Graph-Theory version of Gauss-Bonnet (from Oliver Knill's
+  paper) to provide an example of a potential basis for
+  information-geometry and information-physics (essentially,
+  metaphysics)
+  - this isn't perfect but the structures in the paper did provide me
+    an excellent basis for conceptualizing "information geometry" and
+    "information physics" where before I was simply thinking
+    "incomprehensibly vast, self-similar graph-like things"
+  - mostly G/B's definition of 2D graphs -- expanded to some
+    dimensionality or abstract notion thereof that is ideal for
+    metaphysics
+    - is this related to E8 somehow?
+      - E8 is what it is because it is the *only* lattice solution as
+        "root" or as "pure" as it is -- for any dimension except 24,
+        where there is one that essentially parallel's E8's ability to
+        provide a great deal of flexibility in integral/algebraic
+        number systems
+      - so ... yes ... perhaps?
+  - the lattice/graph structures (and domains) defined in the G/B
+    paper by Oliver Knill are closer to ideal (from an
+    interconnectedness or flexibility perspective) when the networks
+    of sphere-graphs on the graph interlink -- essentially
+    overlapping)
+  - if you want to model all information *perfectly*, there should
+    be some *simplicial* self-similar structure related to the
+    structure of lattices like E8, where its degrees of recursive
+    self-similarity form *the(?)* basis for:
+    - ... something foundational without a doubt
+    - Universal Algebra(?)
+    - Leibniz's Charicteristica Universalis
+
+- almost all the concepts reviewed in the first page or two of oliver
+  knill's paper about combinatorial hopf algebra's also seem very
+  relevant
+  - enumeration of primary simplicial complexes "indexed" to some
+    intermeshing lattice structure that interrelates all simplicial
+    complexes (probably through a ??? Hopf something, lulz)
+    - this probably drills into the "chromatic" concepts that are
+      mentioned (if they provide metrics overtop spectral
+      understandings of graphs... i really have no idea)
+  - the point is, there must be structures that interrelate all
+    possible structures, as well as algebraic represenations of them
+    and all the possibles ways to mutate b/w them or intermesh them
+    - this all must -- or maybe *should* -- hook into some kind of
+      lattice or something, where everything becomes
+      accessible/interelatable as part of the fabric of the same
+      shared spaces
+
+- how to relate this stuff to holonic representations of
+  information-forms?
+
+- (*THIS* is precisely why i'm so interested in papers like these)
+  - if there is some certain structure for modeling the metaphysical
+    -- which results in gradual/sudden consequences dependent on
+    factors such as immediate/eventual computability -- then how
+    does that impact how the singularity unfolds?
+    - particularly, how does it impact how people adapt culture and
+      society to the conclusions here? (especially if it might mean
+      that subjectivity is immediately/gradually rendered irrelevant)
+  - one such change involves expanding/contracting cultural artifacts
+    to either inflate/deflate the amount/structure of information
+    related to human life (to )
+
+[^neutral-nets-in-sequence-space]: [Biophysics of protein evolution and evolutionary protein biophysics](http://rsif.royalsocietypublishing.org/content/11/100/20140419.figures-only) (2014)
+
+![Many overlapping neutral nets in sequence space]()
+
+![Two overlapping neutral nets and their final conformations]()
+
+- in the second pic above, the adjacent sequence variants are
+  functionally coupled to similarly shaped final products
+- holonic structures also have similarly overlapping regions
+  - variants of datums (and their higher-type genericized memes) that
+    produce holonic information "particles" could be imagined as
+    "genes" or sequences.
+    - this idea is not new. Dawkins and many others pioneered this
+      philosophy of evolutionary dynamics of information (The Selfish
+      Gene)
+    - however, other metaphors can help us imagine networks and trees
+      in "sequence space" based on metrics between ideas and memes
+      - most of these problems are intractible, but this provides
+        tools for dilineating and speciating information to identify
+        that with evolutionary advantages or idiosyncratic functional
+        behavior
+  - i still can't actually "visualize" this. for protein folding, the
+    above pictures have been dimensionally flattened.
+    - how can mathematical structures capture all the information in
+      the above metaphors and others?
+      - what are simplified mathematic models that balance diminishing
+        returnes:
+        - simplified versions provide enough utility to produce models
+          with computable data -- but how are the limitations of the
+          models functionally coupled to the results the models
+          produce?
+
 - [Allen's Rule]()
   - if information itself is territory, how does this influence the
     evolutionary mechanics of information?
@@ -152,7 +260,60 @@ excerpt: ""
     variations that the (kantian category representing the could
     collapse into
 
-### 
+### Partitioned Communication Networks
+
+- simplifying conceptualization of social physics by observing voice
+  communication in video games.
+  - in overwatch & other FPS you can't hear the other team signaling,
+    but if they leverage team communication well, they can anticipate
+    your movements in a way that doesn't expose information to you
+  - sign language and pattern language provide a basis for
+    communication that is similar to this. the people around you won't
+    pick up on it, unless they are trained to do so. if they do pick
+    up on languages like this and they aren't supposed to, this alerts
+    the illuminati police.
+
+- fog-of-war in overwatch communication
+  - especially the rate of expiration of types of information
+    vs. bandwidth as an immediately expendible, allocatable commodity
+
+
+### Mechanics and Dynamics Semiolinguistic Games in Social Physics
+
+- dissonance that emerges when adversarial networks try to signal
+  using the same semiotic signifiers w/ different pattern languages
+  (see draft on ephemeral nature of language to understand adversarial
+  design of language and signaling)
+  - [Antifragile Communications paper]())
+
+
+### Metrics on Graphs of Information and Knowledge
+
+- how this can correspond to a measure of intelligence: your ability
+  to identify "longer" and more distant pathways for inferences
+  - the types of "inference" pathways are more varied and less typical
+
+- intelligence as the ability to identify/follow/etc longer paths
+  through information networks/graphs
+  - most people would find these longer paths and complicated graph
+    structures too difficult to follow or (become confident of)
+  - i have this written somewhere else in drafts, but it makes sense
+    in this section
+
+- from these metrics on graphs/networks of information/knowledge,
+  measures of speed, certainty, etc can be developed
+  - here, time can be defined literally or the number of cycles some
+    entity might require to make the inferences or connections
+
+# The Informational Physics of Cultural Movements
+
+
+- if sociophysical systems are probabilistic and, thus,
+  non-deterministic, can the perpetuation of information (written or
+  otherwise) be guarenteed?
+  - what level of information is required?
+  - how could such a thing be guaranteed in a probabilistic system?
+
 
 Hip Hop is a modern example of how the dissemination of information
 changed the lives of millions of people living in mostly African
@@ -1075,7 +1236,7 @@ identity and culture which will otherwise be completely lost.
 
 
 - monad proxy as root. the all is the one, the one is the all.
-  
+
 
 
 

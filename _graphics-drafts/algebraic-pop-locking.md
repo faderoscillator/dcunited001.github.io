@@ -9,6 +9,47 @@ author:
 graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 ---
 
+- TODO: figure out how to structure (with illustrations?) so that
+  pretty much anyone can understand what i'm talking about
+  -
+
+
+#### K-Os - The Love Song (school of kung fu & hip hop)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/RyRB00Xe5-E" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+### Videos
+
+
+
+### Sources
+
+
+
+# Basic Techniques
+
+### &#9312; Isolations: Absolute and Relative Motion
+
+### &#9313; Reversing and Cycling Motion
+
+### &#9314; Layering Effects
+
+- other basic techniques:
+  - articulating motion or exaggerating the amount of movement
+  - gestures and body language
+    - everything in poplocking starts with basic hiphop dance and
+      gestures, layering everything in on top of that
+
+#### Vitruvian Man as the Zero Form for Dirichlet Energy
+
+- dirichlet energy and interpreting body language
+
+![Vitruvian Man]()
+
+
 - this is all geometric mechanics
   - [parametric pendulum](https://www.youtube.com/watch?v=eC_TJeLcZ6A)
   - [parametric resonance](https://www.youtube.com/watch?v=Hi_4SsbwaeE)
@@ -25,10 +66,88 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
     system, one can discretize the space of (theta[1] .. theta[n]) or
     the surface of the toroidally generated shape.
 
-- a primer on
-  [geometric mechanics](https://arxiv.org/pdf/1206.3302.pdf).
+- this distretized, symbolic enumeration of the (configuration space
+  of body positions), forms a graph structure, through which paths
+  emerge
+  - these paths are either time-based or sequential lists of movements
+    (indexed by n, their order in the move-sequence)
+    - regardless, these paths across the configuration-space graph
+      represented mini-routines, but are monadic in nature.
+    - further, they themselves form a higher-order graph of sequences
+      where each element in the sequence is an element in the
+      configuration space graph
+      - this is very similar to time-series on graphs (link article on
+        time-series on discrete networks)
+  - loops across this configuration-space graph are very interesting
+    - examples: cyclic tuts and their partially parameterized cyclic
+      tut counterparts (viz. keep some of the motifs of the tut cycle
+      in tact, but variate some other aspects of them.)
+    - regardless of how you think about dancing and pop-locking, at a
+      minimum, you must understand something that approximates these
+      methods and abstract models of movement to be sufficiently good
+      at tutting (and especially finger-tutting)
+      - that is, your metacognition must emulate something similar to
+        these processes in order to be like a dytto for finger tuts or
+        a B-Boy thesis for groundwork.
+      - however, your metacognition and cognition of these things is
+        probably more engrained into intuition, which actually makes
+        it that much more useful for your particular skillset, which
+        could be dancing, sports, martial arts, etc.
+        - conscious thought is slow, but you condition your
+          subconscious intuition through routines of mind and by
+          developing mental habits
+        - in other words, these people have very highly developed
+          minds and the potential to be highly intelligent, whether
+          they know it or not.
+  - paths through a network are most interesting when they have or
+    when they share higher-order features like cycles or path-types
+    - [^graph-based-time-series-analysis]
+    - pictures?
+
+
+- a primer on [geometric
+  mechanics](https://arxiv.org/pdf/1206.3302.pdf).
 - [configuration space of a double pendulum](http://www.nestedtori.com/2015/08/the-configuration-space-of-double.html)
 - [distributing points on a 2-sphere](http://www.nestedtori.com/2015/09/distributing-points-on-spheres-and.html)
+
+
+### Definition of space, topology
+
+- area/volume of pixels/voxels body parts moved (relative/absolute)
+  - the global movement, change in movement, laplacian of change in
+    movement, density in volume (=~ kinematics deformation), some
+    method of measuring the laplacian in orientation of motion
+  - each pixel/voxel has a structure with it representing space change
+    - original & new voxel space coords along with metrics
+      parameterizing those.
+  - this forms a topological overlay giving you a neighborhood of
+    absolute/relative pixel motion
+    - and changes in other pixel values & laplacian of those
+  - a space based on tracking the joint/surface locations of the body
+    over time, accross relative & absolute changes in space
+    - &#8855; as a representational approximation of a graph)
+    - &#8855; gradually increasing timesteps space trace
+    - this space gives you an indexed data structure for
+      retrieval/calculations on which to base regional/global metrics
+      on the system as a whole
+
+
+#### (a discrete version of something like [this hopf-for-simplicial-complices](https://arxiv.org/abs/1505.04458))
+
+  - and provides calculation/addressing/storage/retrieval of metrics
+    parameterized by the combinatorial space of the domain of joints
+    or body surface elements (both relative & absolute)
+
+### Representations of form/mutation on the space/topologies (move?)
+
+- a representation algorithm that provides a metric for distances b/w
+  various "form" (both symbolic) the spaces/metric
+  - a overlay of symbolicly represented forms might map those created
+    by the above representation alg/index/metric
+  - these symbolic representations should be mappable to forms that
+    are actually human-recognizable and human-comprensible symbolic
+- a measure of general/specific complexity of body forms and body
+  motions
 
 # Discrete Differential Geometry and Pop Locking
 
@@ -43,8 +162,12 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       functional math to a 3D mesh and skeleton and produce functions
       that enable you to move it rhythmically
 
+- look up [Discrete Exterior Calculus]() for info on how to generate
+  domains for body (parameterization/indexes/etc)
+
 ### Combinatorial Generation of Involutes in the Configuration Space
 
+- isolations are involutes
 - involutes are essentially unrollings of lines/planes
   - if you have a finite-length string and you hold one fixpoint, the
     involute is the set of curves that emerge from moving the free
@@ -59,6 +182,8 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
   - with isolations, you could also hold several joints in place and
     try to imagine the isolations available with the joints between
     them.
+
+
 
 - so in a jointed, discrete system where the distance between points
   is constant and motions of jointed 1-segments are constraint by the
@@ -120,7 +245,6 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       rhythmic, usually results in more visually appealing moves.
 
 
-
 ### describe math behind poplocking
 
 - combinating sets of joints in human (and other bodies)
@@ -154,6 +278,7 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
           think, what i think you think, what i think you think i
           think
 
+- (rewrite referencing the above definitions of topology/etc)
 - and, for both functions A (driving motions/behaviors) and
   B (scoring/analyzing motions/behaviors):
   - what's happening here is that there is some metaphysical solution
@@ -172,6 +297,50 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
           necessarily/ordinarily/usually exact, especially if the
           solution requires learning weights to the problem
 
+### Martial Arts Styles Usually Incorporate Energy Minimization/Conservation/Focus
+
+> "Be Water, My Friend..." -
+
+- fighting style in martial arts, as it relates to the minimization of
+  energy.
+  - when and how does the aesthetic of the minimization of energy
+    present itself in a fighting style?
+- here, i mean physical energy minimization
+  - usually high deformation translates into high dirichlet energy
+
+### (Maybe it's own section)
+
+- in poplocking, when you are low to the ground, you have higher
+  potential for dirichlet energy and higher dirichlet "work" over
+  time. for two reasons, at least:
+  - you have a greater potential for relative or absolute movement of
+    any joint/limb
+  - to move at all, you have
+
+- (dirichlet energy is always positive because it's based on an
+  integral of non-negative numbers or norms)
+
+- higher expression of dirichlet work -- i.e. work or, if considered
+  in a sociophysical sense, a change in momentum
+  - almost
+
+- it's tough at first and requires more physical energy expenditure,
+  but:
+  - (1) most body positions provide a good base to balance for
+    isolations
+  - (2) you have to be more creative, more technical and, most of all,
+    more confident in your movements
+
+- however, it's easy to overuse it and it's often overly abstract
+
+### With Poplocking/Dancing, The More Physical Energy, The More Expressive You Can Be
+
+- expression in poplocking requires high dirichlet energy to distort
+  the body for more dense articulation of motion
+  - this requires more motion, thus more physical energy
+
+### (Inefficiencies in Relearning)
+
 - an inefficiancy arises when the human mind must relearn patterns of
   motion (or some abstract behavior/expression)
   - this is bc the mind is finding the structure for some analytical
@@ -187,8 +356,9 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       must transform its existing structure, it cannot
     - it instead must try to find some (B -> C), where C is the
       closest approximate solution to A from B
-      
+
 - ... maybe transition to something else... lulz
+  - the above is relevant...
 
 - connection to negative occupational therapy
   - how this explains why it's expensive to unlearn
@@ -217,9 +387,6 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
   harassment and mind control.
 
 
-### Misc
 
-- fighting style in martial arts, as it relates to the minimization of
-  energy.
-  - when and how does the aesthetic of the minimization of energy
-    present itself in a fighting style?
+
+[^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
